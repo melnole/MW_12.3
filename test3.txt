@@ -1,1 +1,5 @@
-hello 123
+step 0: git status (to see changed files)
+step 1: add files
+step 2: git add .
+step 3: git commit - m "sample message here"
+step 4: git push 
